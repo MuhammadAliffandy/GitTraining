@@ -17,6 +17,7 @@ struct ContentView: View {
                 .bold()
             Text("Hello, Rozz")
             Text("Hello, ini guaaaaaaa")
+            Text("Bukan Gw")
         }
         .padding()
     }
